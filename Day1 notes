@@ -1,2 +1,45 @@
 Java :
 
+* Java is a object oriented programming language.
+
+* Java files are stored with .java extension.
+
+* Java is a platform independent programming language.
+
+* Java programming language is used for web development, software development.
+
+* During compilation .java file is converted into .class file(byte code).Then JVM(Java Virtual Machine) converts 
+
+  the .class file(byte code) into machine code. 
+
+* JVM identifies the type of microprocessor in the machine or system and converts the .class file into machine 
+  
+  code that can be understandable by the machine or system.
+
+Introduction to Java :
+
+History of java:
+
+1990 - Sun Microsystem started a project called stealth project to develop a software that can control the 
+
+       electronic devices with the help of a remote. The project is later named as green project.
+
+1991 - Bill joy, James Gosling, Mike Sheridan, Patrik K Naughton and others worked for the project. Initially, 
+
+	     they thought that C or C++ can be used for the project.
+
+     - Later they found that C or C++ can be used for specified device only. They decided to develop the 
+
+	     programming language that will work on all devices.
+	
+     - They named this project as 'Oak'. But this name is already used by some other company. They renamed the 
+	
+	     project as 'Java'.
+
+     - They choosed the name Java because during the project development time they used to consumed a lot of 
+
+       coffee.
+
+     - The coffee seeds are produced in Java Island. So, they choosed the name as Java.
+
+1996 - JDK 1.0 released
